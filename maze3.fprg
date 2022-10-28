@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-21 10:34:22 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEwLTIxOyIxMDoyODozMyAiOzIzNjU="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEwLTIxOyIxMDozNDoyMiAiOzE7MjQ2OA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <while expression="NaoChegarAoPonto">
+                <call expression="AndarParaFrente"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>

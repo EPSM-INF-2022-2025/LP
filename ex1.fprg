@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-28 12:49:04 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTA5LTMwOyIxMDoxNTo0MiAiOzIzNjk="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEwLTI4OyIxMjo0OTowNCAiOzU7MjQ4Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="primeiroNumero" type="Integer" array="False" size=""/>
+            <declare name="segundoNumero" type="Integer" array="False" size=""/>
+            <declare name="soma" type="Integer" array="False" size=""/>
+            <input variable="primeiroNumero"/>
+            <input variable="segundoNumero"/>
+            <assign variable="soma" expression="primeiroNumero+segundoNumero"/>
+            <output expression="soma" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-28 10:17:31 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEwLTI4OyIwOToxNDo1NiAiOzIzODA="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEwLTI4OyIxMDoxNzozMSAiOzI7MjQ3Nw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="canal, canalComFutebol" type="Integer" array="False" size=""/>
+            <call expression="LigarTelevisao"/>
+            <for variable="canal" start="1" end="50" direction="inc" step="1">
+                <call expression="SintonizarCanal(canal)"/>
+                <if expression="canal == futebol">
+                    <then>
+                        <assign variable="canalComFutebol" expression="canal"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <call expression="SintonizarCanal(canalComFutebol)"/>
+        </body>
+    </function>
+</flowgorithm>

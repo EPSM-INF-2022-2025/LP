@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-10-21 10:38:31 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEwLTIxOyIxMDozNDoyMyAiOzIzNjE="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEwLTIxOyIxMDozODozMSAiOzE7MjQ3Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <while expression="NaoChegarAoPonto">
+                <call expression="AndarParaFrente"/>
+                <call expression="VirarEsquerda"/>
+                <call expression="AndarParaFrente"/>
+                <call expression="VirarDireita"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
