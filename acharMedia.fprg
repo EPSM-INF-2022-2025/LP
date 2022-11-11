@@ -1,0 +1,28 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-11-04 09:57:42 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTA0OyIwOToyMTozMSAiOzIzNjY="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTA0OyIwOTo1Nzo0MiAiOzI7MjQ4Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="num1, num2" type="Integer" array="False" size=""/>
+            <declare name="media" type="Real" array="False" size=""/>
+            <do expression="num1 &lt;= 0">
+                <output expression="&quot;Qual &#233; o n&#250;mero 1?&quot;" newline="True"/>
+                <input variable="num1"/>
+            </do>
+            <do expression="num2 &lt;= 0">
+                <output expression="&quot;Qual &#233; o n&#250;mero 2?&quot;" newline="True"/>
+                <input variable="num2"/>
+            </do>
+            <assign variable="media" expression="(num1 + num2) / 2"/>
+            <output expression="&quot;A m&#233;dia &#233; &quot; &amp; media" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-11-04 09:15:37 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTA0OyIwOTowMzo0MCAiOzIzNjY="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTA0OyIwOToxNTozNyAiOzE7MjQ4Mw=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="canal, ultimoCanal" type="Integer" array="False" size=""/>
+            <assign variable="ultimoCanal" expression="50"/>
+            <call expression="LigarTv()"/>
+            <assign variable="canal" expression="0"/>
+            <do expression="canal != futebol &amp;&amp; canal &lt; ultimoCanal">
+                <assign variable="canal" expression="canal + 1"/>
+                <call expression="sintonizarCanal(canal)"/>
+            </do>
+        </body>
+    </function>
+</flowgorithm>

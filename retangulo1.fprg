@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-11-11 09:13:02 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTExOyIwODo1MzoxOCAiOzIzNzM="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTExOyIwOToxMzowMiAiOzI7MjQ3Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="altura, largura, area, perimetro" type="Real" array="False" size=""/>
+            <output expression="&quot;Qual a altura?&quot;" newline="True"/>
+            <input variable="altura"/>
+            <output expression="&quot;Qual a largura?&quot;" newline="True"/>
+            <input variable="largura"/>
+            <assign variable="area" expression="largura * altura"/>
+            <assign variable="perimetro" expression="(altura * 2) + (largura * 2)"/>
+            <output expression="&quot;A &#225;rea &#233; &quot; &amp; area" newline="True"/>
+            <output expression="&quot;O perimetro &#233; &quot; &amp; perimetro" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
