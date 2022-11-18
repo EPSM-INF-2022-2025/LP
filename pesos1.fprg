@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-11-18 09:45:37 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTE4OyIwOToxMzo1MCAiOzIzNzM="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTExLTE4OyIwOTo0NTozNyAiOzI7MjQ5Mg=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="idade" type="Integer" array="False" size=""/>
+            <declare name="peso" type="Integer" array="False" size=""/>
+            <declare name="nrPessoas" type="Integer" array="False" size=""/>
+            <declare name="somaIdades" type="Integer" array="False" size=""/>
+            <declare name="mediaIdades" type="Real" array="False" size=""/>
+            <assign variable="somaIdades" expression="0"/>
+            <declare name="nrPessoasMais100Kg" type="Integer" array="False" size=""/>
+            <assign variable="nrPessoasMais100Kg" expression="0"/>
+            <declare name="nrPessoasMais50Kg" type="Integer" array="False" size=""/>
+            <assign variable="nrPessoasMais50Kg" expression="0"/>
+            <declare name="nrPessoasMenos30Kg" type="Integer" array="False" size=""/>
+            <assign variable="nrPessoasMenos30Kg" expression="0"/>
+            <for variable="nrPessoas" start="1" end="5" direction="inc" step="1">
+                <output expression="&quot;Qual a idade?&quot;" newline="True"/>
+                <input variable="idade"/>
+                <assign variable="somaIdades" expression="somaIdades + idade"/>
+                <output expression="&quot;Qual o peso?&quot;" newline="True"/>
+                <input variable="peso"/>
+                <if expression="peso &gt; 100">
+                    <then>
+                        <assign variable="nrPessoasMais100Kg" expression="nrPessoasMais100Kg + 1"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="peso &gt; 50">
+                    <then>
+                        <assign variable="nrPessoasMais50Kg" expression="nrPessoasMais50Kg + 1"/>
+                    </then>
+                    <else/>
+                </if>
+                <if expression="peso &lt; 30">
+                    <then>
+                        <assign variable="nrPessoasMenos30Kg" expression="nrPessoasMenos30Kg + 1"/>
+                    </then>
+                    <else/>
+                </if>
+            </for>
+            <assign variable="mediaIdades" expression="somaIdades / 5"/>
+            <output expression="&quot;A m&#233;dia de idades &#233; &quot; &amp; mediaIdades" newline="True"/>
+            <output expression="&quot;Mais de 100Kg = &quot; &amp; nrPessoasMais100Kg" newline="True"/>
+            <output expression="&quot;Mais de 50Kg = &quot; &amp; nrPessoasMais50Kg" newline="True"/>
+            <output expression="&quot;Menos de 30Kg = &quot; &amp; nrPessoasMenos30Kg" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
