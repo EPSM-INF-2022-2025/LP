@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-12-02 10:06:48 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEyLTAyOyIxMDowMTo1NyAiOzIzNjM="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEyLTAyOyIxMDowNjo0OCAiOzE7MjQ3Ng=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="quilometros" type="Integer" array="False" size=""/>
+            <declare name="precoTotal" type="Real" array="False" size=""/>
+            <output expression="&quot;Quantos quilometros tem a viagem?&quot;" newline="True"/>
+            <input variable="quilometros"/>
+            <if expression="quilometros &lt;= 200">
+                <then>
+                    <assign variable="precoTotal" expression="quilometros * 0.50"/>
+                </then>
+                <else>
+                    <assign variable="precoTotal" expression="quilometros * 0.45"/>
+                </else>
+            </if>
+            <output expression="&quot;O valor total &#233; &quot; &amp; precoTotal" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

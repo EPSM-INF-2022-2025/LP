@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-12-02 09:25:51 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEyLTAyOyIwODo0NzoyOCAiOzIzNzg="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEyLTAyOyIwOToyNTo1MSAiOzE7MjQ3OQ=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="diasTrabalhados" type="Integer" array="False" size=""/>
+            <declare name="salario" type="Real" array="False" size=""/>
+            <output expression="&quot;Quantos dias trabalhou?&quot;" newline="True"/>
+            <input variable="diasTrabalhados"/>
+            <assign variable="salario" expression="8 * 7.50 * diasTrabalhados"/>
+            <output expression="&quot;O sal&#225;rio &#233; &quot; &amp; salario" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>

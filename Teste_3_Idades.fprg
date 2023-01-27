@@ -1,0 +1,40 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="3.0">
+    <attributes>
+        <attribute name="name" value=""/>
+        <attribute name="authors" value="rafsil"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2022-12-02 10:48:19 "/>
+        <attribute name="created" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEyLTAyOyIxMDo0Mjo1MCAiOzIzNjE="/>
+        <attribute name="edited" value="cmFmc2lsO0VRLVBDLTE4MjsyMDIyLTEyLTAyOyIxMDo0ODoxOSAiOzE7MjQ4MA=="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="idade, nrIdades, totalIdades, mais18" type="Integer" array="False" size=""/>
+            <declare name="media" type="Real" array="False" size=""/>
+            <declare name="resposta" type="String" array="False" size=""/>
+            <assign variable="nrIdades" expression="0"/>
+            <assign variable="mais18" expression="0"/>
+            <assign variable="totalIdades" expression="0"/>
+            <do expression="resposta != &quot;N&quot;">
+                <output expression="&quot;Qual a idade?&quot;" newline="True"/>
+                <input variable="idade"/>
+                <output expression="&quot;Quer continuar?&quot;" newline="True"/>
+                <input variable="resposta"/>
+                <assign variable="nrIdades" expression="nrIdades + 1"/>
+                <assign variable="totalIdades" expression="totalIdades + idade"/>
+                <if expression="idade &gt; 18">
+                    <then>
+                        <assign variable="mais18" expression="mais18 + 1"/>
+                    </then>
+                    <else/>
+                </if>
+            </do>
+            <assign variable="media" expression="totalIdades / nrIdades"/>
+            <output expression="&quot;Numero de Idades = &quot; &amp; nrIdades" newline="True"/>
+            <output expression="&quot;M&#233;dia de Idades = &quot; &amp; media" newline="True"/>
+            <output expression="&quot;Mais de 18 = &quot; &amp; mais18" newline="True"/>
+        </body>
+    </function>
+</flowgorithm>
