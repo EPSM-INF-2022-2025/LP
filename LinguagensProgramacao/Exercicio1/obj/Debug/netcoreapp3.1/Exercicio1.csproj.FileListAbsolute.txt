@@ -1,0 +1,14 @@
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.exe
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.deps.json
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.json
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.runtimeconfig.dev.json
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\bin\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.AssemblyReference.cache
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfoInputs.cache
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.AssemblyInfo.cs
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.dll
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.pdb
+C:\Users\rafsil\source\repos\LinguagensProgramacao\Exercicio1\obj\Debug\netcoreapp3.1\Exercicio1.genruntimeconfig.cache
