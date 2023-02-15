@@ -1,0 +1,15 @@
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\bin\Debug\net6.0\Residencial.exe
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\bin\Debug\net6.0\Residencial.deps.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\bin\Debug\net6.0\Residencial.runtimeconfig.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\bin\Debug\net6.0\Residencial.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\bin\Debug\net6.0\Residencial.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.csproj.AssemblyReference.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.AssemblyInfoInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.AssemblyInfo.cs
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\refint\Residencial.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\Residencial.genruntimeconfig.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Residencial\obj\Debug\net6.0\ref\Residencial.dll
