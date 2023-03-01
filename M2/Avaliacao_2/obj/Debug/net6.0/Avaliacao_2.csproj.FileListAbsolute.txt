@@ -1,0 +1,15 @@
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\bin\Debug\net6.0\Avaliacao_2.exe
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\bin\Debug\net6.0\Avaliacao_2.deps.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\bin\Debug\net6.0\Avaliacao_2.runtimeconfig.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\bin\Debug\net6.0\Avaliacao_2.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\bin\Debug\net6.0\Avaliacao_2.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.csproj.AssemblyReference.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.AssemblyInfoInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.AssemblyInfo.cs
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\refint\Avaliacao_2.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\Avaliacao_2.genruntimeconfig.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\M2\Avaliacao_2\obj\Debug\net6.0\ref\Avaliacao_2.dll
