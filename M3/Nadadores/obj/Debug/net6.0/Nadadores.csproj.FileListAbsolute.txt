@@ -1,0 +1,15 @@
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\bin\Debug\net6.0\Nadadores.exe
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\bin\Debug\net6.0\Nadadores.deps.json
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\bin\Debug\net6.0\Nadadores.runtimeconfig.json
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\bin\Debug\net6.0\Nadadores.dll
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\bin\Debug\net6.0\Nadadores.pdb
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.csproj.AssemblyReference.cache
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.AssemblyInfoInputs.cache
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.AssemblyInfo.cs
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.dll
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\refint\Nadadores.dll
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.pdb
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\Nadadores.genruntimeconfig.cache
+C:\Users\rafsil\Desktop\IP\M3\Nadadores\obj\Debug\net6.0\ref\Nadadores.dll
