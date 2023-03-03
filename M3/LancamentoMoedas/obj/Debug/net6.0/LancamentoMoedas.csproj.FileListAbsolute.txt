@@ -1,0 +1,15 @@
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\bin\Debug\net6.0\LancamentoMoedas.exe
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\bin\Debug\net6.0\LancamentoMoedas.deps.json
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\bin\Debug\net6.0\LancamentoMoedas.runtimeconfig.json
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\bin\Debug\net6.0\LancamentoMoedas.dll
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\bin\Debug\net6.0\LancamentoMoedas.pdb
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.csproj.AssemblyReference.cache
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.AssemblyInfoInputs.cache
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.AssemblyInfo.cs
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.dll
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\refint\LancamentoMoedas.dll
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.pdb
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\LancamentoMoedas.genruntimeconfig.cache
+C:\Users\rafsil\Desktop\IP\M3\LancamentoMoedas\obj\Debug\net6.0\ref\LancamentoMoedas.dll
