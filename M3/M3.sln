@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.3.32901.215
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Nadadores", "Nadadores\Nadadores.csproj", "{A6A913F3-47A1-4B2E-880F-3ACB9D1BD45E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Nadadores", "Nadadores\Nadadores.csproj", "{A6A913F3-47A1-4B2E-880F-3ACB9D1BD45E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancamentoMoedas", "LancamentoMoedas\LancamentoMoedas.csproj", "{45B19E0A-2736-47EA-88E9-72EAB6631ADA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LancamentoMoedas", "LancamentoMoedas\LancamentoMoedas.csproj", "{45B19E0A-2736-47EA-88E9-72EAB6631ADA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DobragemPapel", "DobragemPapel\DobragemPapel.csproj", "{6BFFE22B-F5A4-4613-A17B-54B477911EED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{45B19E0A-2736-47EA-88E9-72EAB6631ADA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{45B19E0A-2736-47EA-88E9-72EAB6631ADA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{45B19E0A-2736-47EA-88E9-72EAB6631ADA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BFFE22B-F5A4-4613-A17B-54B477911EED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BFFE22B-F5A4-4613-A17B-54B477911EED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BFFE22B-F5A4-4613-A17B-54B477911EED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BFFE22B-F5A4-4613-A17B-54B477911EED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
