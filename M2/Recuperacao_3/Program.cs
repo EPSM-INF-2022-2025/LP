@@ -10,3 +10,20 @@ idade".  Além disso, caso o usuário digite uma idade inválida
 erro.
  
  */
+int idade;
+
+Console.WriteLine("Quantos anos tem?");
+idade = Convert.ToInt32(Console.ReadLine());
+
+if (idade < 0 || idade > 120)
+{
+    Console.WriteLine("idade invalida");
+}
+else if (idade >= 18)
+{
+    Console.WriteLine("é maior de idade");
+}
+else 
+{
+    Console.WriteLine("menor de idade");  
+}
