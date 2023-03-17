@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Avaliacao_1\\Avaliacao_1.csproj": {}
+    "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Avaliacao_1\\Avaliacao_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Avaliacao_1\\Avaliacao_1.csproj": {
+    "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Avaliacao_1\\Avaliacao_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Avaliacao_1\\Avaliacao_1.csproj",
+        "projectUniqueName": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Avaliacao_1\\Avaliacao_1.csproj",
         "projectName": "Avaliacao_1",
-        "projectPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Avaliacao_1\\Avaliacao_1.csproj",
+        "projectPath": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Avaliacao_1\\Avaliacao_1.csproj",
         "packagesPath": "C:\\Users\\rafsil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Avaliacao_1\\obj\\",
+        "outputPath": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Avaliacao_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafsil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

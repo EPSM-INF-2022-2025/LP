@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Nadadores\\Nadadores.csproj",
+      "projectUniqueName": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Nadadores\\Nadadores.csproj",
       "projectName": "Nadadores",
-      "projectPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Nadadores\\Nadadores.csproj",
+      "projectPath": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Nadadores\\Nadadores.csproj",
       "packagesPath": "C:\\Users\\rafsil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Nadadores\\obj\\",
+      "outputPath": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Nadadores\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafsil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

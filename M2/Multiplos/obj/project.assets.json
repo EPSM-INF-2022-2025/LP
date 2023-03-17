@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Multiplos\\Multiplos.csproj",
+      "projectUniqueName": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Multiplos\\Multiplos.csproj",
       "projectName": "Multiplos",
-      "projectPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Multiplos\\Multiplos.csproj",
+      "projectPath": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Multiplos\\Multiplos.csproj",
       "packagesPath": "C:\\Users\\rafsil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\M2\\Multiplos\\obj\\",
+      "outputPath": "C:\\Users\\rafsil\\Desktop\\IP\\M2\\Multiplos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafsil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }
