@@ -1,0 +1,15 @@
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\bin\Debug\net6.0\Banco.exe
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\bin\Debug\net6.0\Banco.deps.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\bin\Debug\net6.0\Banco.runtimeconfig.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\bin\Debug\net6.0\Banco.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\bin\Debug\net6.0\Banco.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.csproj.AssemblyReference.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.AssemblyInfoInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.AssemblyInfo.cs
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\refint\Banco.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\Banco.genruntimeconfig.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\Banco\obj\Debug\net6.0\ref\Banco.dll
