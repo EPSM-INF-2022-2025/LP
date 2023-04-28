@@ -26,8 +26,12 @@ static void MostrarMenuInicial() {
                 CriarConta(ref nomeTitular, ref saldoConta);
                 break;
             case 2:
+                decimal novoSaldo = Depositar(ref saldoConta);
+                Console.WriteLine("Novo Saldo = " + novoSaldo);
                 break;
             case 3:
+                decimal novoSaldoLevantar = Levantar(ref saldoConta);
+                Console.WriteLine("Novo Saldo = " + novoSaldoLevantar);
                 break;
             case 0:
                 continuarPrograma = false;
@@ -47,4 +51,25 @@ static void CriarConta(ref string nomeTitular, ref decimal saldoConta)
 
     Console.WriteLine("Qual o saldo?");
     saldoConta = Convert.ToDecimal(Console.ReadLine());
+}
+
+static decimal Depositar(ref decimal saldoConta) {
+
+    Console.WriteLine("Qual o valor?");
+    decimal valorDeposito = Convert.ToDecimal(Console.ReadLine());
+
+    saldoConta = saldoConta + valorDeposito;
+
+    return saldoConta;
+
+}
+
+static decimal Levantar(ref decimal saldoConta)
+{
+    Console.WriteLine("Qual o valor a levantar?");
+    decimal valorLevantar = Convert.ToDecimal(Console.ReadLine());
+
+    saldoConta = saldoConta - valorLevantar;
+
+    return saldoConta;
 }
