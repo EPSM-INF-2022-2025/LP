@@ -26,7 +26,7 @@
             switch (opcao)
             {
                 case 1:
-                    CriarFuncionario()
+                    CriarFuncionario();
                     break;
                 case 2:
                     break;
