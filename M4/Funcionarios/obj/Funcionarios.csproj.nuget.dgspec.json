@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Media\\Media.csproj": {}
+    "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\Funcionarios.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Media\\Media.csproj": {
+    "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\Funcionarios.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Media\\Media.csproj",
-        "projectName": "Media",
-        "projectPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Media\\Media.csproj",
+        "projectUniqueName": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\Funcionarios.csproj",
+        "projectName": "Funcionarios",
+        "projectPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\Funcionarios.csproj",
         "packagesPath": "C:\\Users\\rafsil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Media\\obj\\",
+        "outputPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafsil\\AppData\\Roaming\\NuGet\\NuGet.Config",

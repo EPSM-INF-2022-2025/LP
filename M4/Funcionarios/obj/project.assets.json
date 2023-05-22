@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Banco\\Banco.csproj",
-      "projectName": "Banco",
-      "projectPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Banco\\Banco.csproj",
+      "projectUniqueName": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\Funcionarios.csproj",
+      "projectName": "Funcionarios",
+      "projectPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\Funcionarios.csproj",
       "packagesPath": "C:\\Users\\rafsil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Banco\\obj\\",
+      "outputPath": "C:\\Users\\rafsil\\source\\repos\\EPSM-INF-2022-2025\\LP\\M4\\Funcionarios\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\rafsil\\AppData\\Roaming\\NuGet\\NuGet.Config",

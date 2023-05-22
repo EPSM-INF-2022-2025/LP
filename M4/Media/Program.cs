@@ -9,6 +9,7 @@ static void MostrarMenu()
     {
         Console.WriteLine("1 - Ler Numeros");
         Console.WriteLine("2 - Calcular Média");
+        Console.WriteLine("3 - Encontrar o MAIOR");
         Console.WriteLine("0 - Sair");
 
         int opcao = Convert.ToInt32(Console.ReadLine());
@@ -19,8 +20,19 @@ static void MostrarMenu()
                 numeros = LerNumeros();
                 break;
             case 2:
-                decimal media = CalcularMedia(numeros);
-                Console.WriteLine("Média = " + media);
+                if (numeros.Count() > 0)
+                {
+                    decimal media = CalcularMedia(numeros);
+                    Console.WriteLine("Média = " + media);
+                }
+                else {
+                    Console.WriteLine("Média = " + media);
+                }
+                
+                break;
+            case 3:
+                int maior = EncontrarMaior(numeros);
+                Console.WriteLine("Maior = " + maior);
                 break;
             case 0:
                 continuar = false;
@@ -69,4 +81,18 @@ static decimal CalcularMedia(List<int> numeros)
     media = soma / numeros.Count();
 
     return media;
+}
+
+static int EncontrarMaior(List<int> numeros)
+{
+    int maior = 0;
+
+    foreach (var num in numeros)
+    {
+        if (num > maior) { 
+            maior = num;
+        }
+    }
+
+    return maior;
 }
