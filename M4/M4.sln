@@ -9,7 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculadora", "Calculadora\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Media", "Media\Media.csproj", "{9F34B0BC-BD2E-419C-A88E-32F500A24C37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Funcionarios", "Funcionarios\Funcionarios.csproj", "{0C7FCC0B-1248-4E3F-B6C4-25FDF70BCC18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Funcionarios", "Funcionarios\Funcionarios.csproj", "{0C7FCC0B-1248-4E3F-B6C4-25FDF70BCC18}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArraySimples", "ArraySimples\ArraySimples.csproj", "{C7D2A6C9-AAC0-44C7-AFA0-07A4E8E48462}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArrayBidimensional", "ArrayBidimensional\ArrayBidimensional.csproj", "{64C3D566-26A9-47BE-8534-9D2F330C452F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{0C7FCC0B-1248-4E3F-B6C4-25FDF70BCC18}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C7FCC0B-1248-4E3F-B6C4-25FDF70BCC18}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C7FCC0B-1248-4E3F-B6C4-25FDF70BCC18}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7D2A6C9-AAC0-44C7-AFA0-07A4E8E48462}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7D2A6C9-AAC0-44C7-AFA0-07A4E8E48462}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7D2A6C9-AAC0-44C7-AFA0-07A4E8E48462}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7D2A6C9-AAC0-44C7-AFA0-07A4E8E48462}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C3D566-26A9-47BE-8534-9D2F330C452F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C3D566-26A9-47BE-8534-9D2F330C452F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C3D566-26A9-47BE-8534-9D2F330C452F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C3D566-26A9-47BE-8534-9D2F330C452F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

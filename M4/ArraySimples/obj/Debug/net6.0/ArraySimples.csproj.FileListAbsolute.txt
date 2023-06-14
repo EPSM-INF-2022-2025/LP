@@ -1,0 +1,15 @@
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\bin\Debug\net6.0\ArraySimples.exe
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\bin\Debug\net6.0\ArraySimples.deps.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\bin\Debug\net6.0\ArraySimples.runtimeconfig.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\bin\Debug\net6.0\ArraySimples.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\bin\Debug\net6.0\ArraySimples.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.csproj.AssemblyReference.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.AssemblyInfoInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.AssemblyInfo.cs
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\refint\ArraySimples.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ArraySimples.genruntimeconfig.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArraySimples\obj\Debug\net6.0\ref\ArraySimples.dll
