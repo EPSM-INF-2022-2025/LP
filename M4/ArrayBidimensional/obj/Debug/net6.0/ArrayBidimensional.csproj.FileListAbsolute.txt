@@ -1,0 +1,15 @@
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.csproj.AssemblyReference.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.AssemblyInfoInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.AssemblyInfo.cs
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.csproj.CoreCompileInputs.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.exe
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.deps.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.runtimeconfig.json
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\bin\Debug\net6.0\ArrayBidimensional.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\refint\ArrayBidimensional.dll
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.pdb
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ArrayBidimensional.genruntimeconfig.cache
+C:\Users\rafsil\source\repos\EPSM-INF-2022-2025\LP\M4\ArrayBidimensional\obj\Debug\net6.0\ref\ArrayBidimensional.dll
